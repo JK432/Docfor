@@ -1,6 +1,6 @@
 # docfor
 
-A new Flutter project.
+Flutter Windows project
 
 ## Getting Started
 
